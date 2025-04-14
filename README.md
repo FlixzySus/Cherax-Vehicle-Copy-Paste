@@ -16,8 +16,7 @@ These must be in the same folder as the ".exe":
 
 ## 📦 How to Use
 
-1.**Download this repository**
-
+1. **Download this repository**
 2. Put "CheraxCopyPaste.exe", "VehicleList.ini", and "categorized_vehicle_list.txt" into the same folder
 3. Run "CheraxCopyPaste.exe"
 4. Click to load your "Base.json" (exported from GTA via Cherax)

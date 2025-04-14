@@ -19,7 +19,7 @@ These must be in the same folder as the ".exe":
 1. **Download this repository**
 2. Put "CheraxCopyPaste.exe", "VehicleList.ini", and "categorized_vehicle_list.txt" into the same folder
 3. Run "CheraxCopyPaste.exe"
-4. Click to load your "Base.json" (vhicle saved as "Base" via Cherax that you want to copy to other vehicles)
+4. Click to load your "Base.json" (vehicle saved as "Base" via Cherax that you want to copy to other vehicles)
 5. Click "▶ APPLY FROM BASE'
 6. A new folder like "Applied from Base", "Applied from Base(2)" will appear
 7. Inside, your files will be neatly organized by vehicle class
